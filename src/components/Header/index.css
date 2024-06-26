@@ -1,0 +1,26 @@
+.nav-header {
+    background-color: dimgrey;
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-content {
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-menu {
+    height: 25px;
+    width: 100px;
+    border-radius: 5px;
+}
+
+.nav-link {
+    font-size: 15px;
+    color: black;
+}
